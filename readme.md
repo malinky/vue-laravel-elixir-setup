@@ -9,3 +9,4 @@ Basic Vue set up with laravel-elixir, browserify
 #### Thanks
 
 [mattstauffer](https://github.com/mattstauffer)
+[blog post](http://blog.tighten.co/setting-up-your-first-vuejs-site-using-laravel-elixir-and-vueify)
