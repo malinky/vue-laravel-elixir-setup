@@ -1,0 +1,15 @@
+
+{
+  "name": "vue-laravel-elixir-setup",
+  "version": "1.0.0",
+  "description": "Vue Laravel Exlir Setup",
+  "dependencies": {
+    "vue": "^1.0.21"
+  },
+  "devDependencies": {
+    "gulp": "^3.8.8",
+    "laravel-elixir": "^4.0.0",
+    "laravel-elixir-vueify": "^1.0.0"
+  },
+  "author": "Malinky"
+}
